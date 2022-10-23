@@ -1,2 +1,6 @@
 # Merge-Sort
-Project 2
+# www.Patika.dev
+# Patika Veri Yapıları ve Algoritmalar eğitiminin ikinci projesidir.
+
+
+
